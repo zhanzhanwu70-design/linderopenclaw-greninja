@@ -1,0 +1,3 @@
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L2050] Assistant: HEARTBEAT_OK (Discord 401 persists - bot token needs re-authentication)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L2054] Assistant: HEARTBEAT_OK (Discord 401 persists - bot token needs re-authentication)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L2060] Assistant: HEARTBEAT_OK (Discord 401 persists - bot token needs re-authentication)
