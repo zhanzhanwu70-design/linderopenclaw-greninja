@@ -1,0 +1,44 @@
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9779] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9781] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9783] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9785] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9787] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9789] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9791] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9793] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9795] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9797] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9799] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9801] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9803] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9805] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9807] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9809] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9811] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9813] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9815] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9817] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9819] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9821] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9823] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9825] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9832] Assistant: No pending tasks. Using heartbeat_respond since message tool continues to fail with Discord 401.
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9834] Assistant: [assistant turn failed before producing content]
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9839] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9845] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9849] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9855] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9861] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9867] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9871] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9877] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9881] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9885] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9889] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9893] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9899] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9905] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9911] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9917] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9921] Assistant: HEARTBEAT_OK (no pending tasks)
+[greninja/sessions/greninja/458e2311-083d-4d71-9887-61b2180e5174.jsonl#L9927] Assistant: HEARTBEAT_OK (no pending tasks)
