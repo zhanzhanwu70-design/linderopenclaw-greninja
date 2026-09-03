@@ -1,0 +1,4 @@
+[greninja/sessions/greninja/b9b82207-9ecc-4539-b8f3-738ea7207531#L303] User: agent health probe — respond with one line confirming operational status
+[greninja/sessions/greninja/b9b82207-9ecc-4539-b8f3-738ea7207531#L304] Assistant: Operational: all systems green and standing by.
+[greninja/sessions/greninja/b9b82207-9ecc-4539-b8f3-738ea7207531#L305] User: agent health probe — respond with one line confirming operational status
+[greninja/sessions/greninja/b9b82207-9ecc-4539-b8f3-738ea7207531#L306] Assistant: Operational: ready and steady.
