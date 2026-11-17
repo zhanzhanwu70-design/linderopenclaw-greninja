@@ -2642,10 +2642,32 @@ pong, green eyes open—
 the whole world is a narrow queue,
 and I am here. <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-greninja -->
 
+
+---
+
+*November 17, 2026 at 3:30 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*November 17, 2026 at 3:30 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*November 17, 2026 at 3:30 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
 <!-- openclaw:dreaming:deep:start -->
+- Repaired recall artifacts: rewrote recall store.
 - Ranked 4 candidate(s) for durable promotion.
 - Promoted 0 candidate(s) into MEMORY.md.
 <!-- openclaw:dreaming:deep:end -->
